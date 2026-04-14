@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>P1 Nuvem: Configurando o serviço de armazenamento - Site Estático</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .main-container {
+            text-align: center;
+            background: rgba(255, 255, 255, 0.95);
+            padding: 60px 40px;
+            border-radius: 25px;
+            backdrop-filter: blur(20px);
+            box-shadow: 0 30px 80px rgba(0, 0, 0, 0.2);
+            max-width: 600px;
+            width: 100%;
+        }
+
+        .main-icon {
+            font-size: 4rem;
+            margin-bottom: 30px;
+        }
+
+        .main-title {
+            font-size: 2rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 15px;
+        }
+
+        .subtitle {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 25px;
+        }
+
+        .delivery-info {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 12px 25px;
+            border-radius: 50px;
+            font-weight: 600;
+            display: inline-block;
+            box-shadow: 0 10px 30px rgba(255, 255, 255, 0.3);
+            margin-bottom: 30px;
+        }
+
+        .main-message {
+            font-size: 1.2rem;
+            color: #666;
+            line-height: 1.7;
+        }
+
+        @media (max-width: 768px) {
+            .main-title {
+                font-size: 1.6rem;
+            }
+            .subtitle {
+                font-size: 1.1rem;
+            }
+            .main-container {
+                padding: 40px 25px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="main-container">
+        <div class="main-icon">☁️</div>
+        <h1 class="main-title">P1 Computação em Nuvem</h1>
+        <h2 class="subtitle">Configurando o serviço de armazenamento de objetos para um website estático</h2>
+        <div class="delivery-info">📅 Data de entrega: 13/04/2026</div>
+        <p class="main-message">
+            Website estático hospedado em storage de objetos na nuvem.
+        </p>
+    </div>
+</body> 
+</html>
