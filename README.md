@@ -27,5 +27,12 @@ Link para o site: https://p1nuvem.z13.web.core.windows.net/
 
 
 Segunda Atividade:
-1<img width="2559" height="1389" alt="image" src="https://github.com/user-attachments/assets/e47c1ce1-22a2-4771-b285-0890c131ba7a" />
-2<img width="2559" height="1388" alt="image" src="https://github.com/user-attachments/assets/50ff91c7-3d7f-4ae7-b6f1-797f533b328d" />
+
+Passo 1:
+<img width="2559" height="1390" alt="image" src="https://github.com/user-attachments/assets/ff9707c1-6b66-4cd6-a63a-4cc435ad9a98" />
+
+Máquina Criada:
+<img width="2559" height="1384" alt="image" src="https://github.com/user-attachments/assets/8b7135f9-64bd-4e9c-ab4a-849da6fd89f8" />
+
+Conexão Estabelecida:
+<img width="1229" height="928" alt="image" src="https://github.com/user-attachments/assets/07081ed4-e448-40d1-a157-a18f8a50c1db" />
